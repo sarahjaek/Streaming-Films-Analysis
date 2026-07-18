@@ -1,5 +1,6 @@
 # Streaming Services and Film Trend Analysis
 (Uploaded from Deepnote Notebook)
+
 Collaborators: Sarah Kim, Nathaniel Kim, Terry Chen
 
 ## Overview
